@@ -1,10 +1,10 @@
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - *BitFit part 1*
 
-Submitted by: **Your Name Here**
+Submitted by: **Robell A**
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+**BitFit** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
